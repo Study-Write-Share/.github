@@ -13,7 +13,9 @@ Study&Write&Share 是团队协作的Github组织。我们致力于将个人学�
 - HowTo
   - 链接：https://github.com/Study-Write-Share/HowTo
   - 简介：收集VPN，Git，Markdown等生产力基础软件的配置说明与实用操作手册，侧重可重复的配置步骤、常见问题及排查技巧，目标是降低入门门槛并提升工程可复现性。
-
+-.github
+  - 链接：https://github.com/Study-Write-Share/.github
+  - 关键内容：[ISUUE模板]"https://github.com/Study-Write-Share/.github/tree/main/ISSUE_TEMPLATE"
 我们的价值
 
 - 实用性：侧重“能跑起来、能复现”的指南与示例，帮助各位同学把知识转化为可运行的工程或实验环境。
@@ -41,7 +43,7 @@ Study&Write&Share 是团队协作的Github组织。我们致力于将个人学�
 
 联系方式
 
-- 在任一项目仓库中使用 Issues 或 Discussions 联系维护者。
+- 在任一项目仓库中使用 Issues (请使用ISUUE模板)或 Discussions 联系维护者。
 - 组织主页：https://github.com/Study-Write-Share
 
 许可与声明
@@ -51,4 +53,5 @@ Study&Write&Share 是团队协作的Github组织。我们致力于将个人学�
 欢迎加入
 
 如果你也热爱学习、记录与分享，欢迎为项目贡献你的笔记、脚本与教程。让我们把每一次学习都变成对大家的帮助，共同降低入门门槛，提高学习效率。
+
 
